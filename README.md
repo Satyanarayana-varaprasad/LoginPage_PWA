@@ -14,8 +14,7 @@ npm -v
 node -v
 
 # Commands to run 
-npm init
-node server.js
-
-
+1)npm install
+2)npm start
+3)127.0.0.1:Portnumber'
 
